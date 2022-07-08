@@ -1,0 +1,16 @@
+.logo{
+    /* margin-left: 6rem; */
+    font-weight: bolder;
+}
+
+.bg{
+    background-color: rgba(154, 154, 154, 0.158);
+}
+
+.divider{
+    background-color: white !important;
+    width: 10%;
+    height: 10px !important;
+    border: 2px solid white;
+    opacity: 1.0;
+}
